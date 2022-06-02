@@ -1,7 +1,7 @@
 #adding heading by mort
 # Calculator (Vue 3)
 
-### Description :- It is a simple numeric calculator built using vue js 3
+### Description :- It is a simple numeric calculator built using vue js 3, you are welcome to fork this repo and extend it, Thanks :)
 
 ### Preview Available <a href="https://ak.iocoder.in" target="_blank">#here</a>
 
